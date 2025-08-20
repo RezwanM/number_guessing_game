@@ -1,4 +1,4 @@
-# number_guessing_game
+# Number Guessing Game
 
 This repository contains code for a simple number guessing game which was written in Rust.  
 
